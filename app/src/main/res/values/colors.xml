@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Gray">#808080</color>
+    <color name="Silver">#C0C0C0</color>
+
+    <color name="colorPrimaryDark">#1C474C</color>
+    <color name="colorPrimary">#42DAED</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="AnswerNotClck">#EFEEEF</color>
+    <color name="AnswertClcked">#00DEEF</color>
+    <color name="colorblue">#020969</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="clickedColor">#2962FF</color>
+
+
+    <color name="Crimson">#DC143C</color>
+    <color name="Black">#000000</color>
+    <color name="Red">#FF0000</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+</resources>

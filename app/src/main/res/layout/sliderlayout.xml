@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="170dp"
+        android:layout_height="150dp"
+        android:id="@+id/ImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/chart1_icon" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_Header"
+        android:layout_below="@+id/ImageView"
+        android:layout_centerHorizontal="true"
+        android:text="Notfications"
+        android:layout_marginTop="30dp"
+        android:textSize="25dp"
+        android:textColor="#020969"
+        android:textStyle="bold"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_Dis"
+        android:layout_below="@+id/txt_Header"
+        android:layout_centerHorizontal="true"
+        android:text="alknsjanjandiasnasnd\nahdiuhdaiudhidhuasdiaaidhiau"
+        android:layout_marginTop="30dp"
+        android:textSize="19dp"
+        android:textColor="#020969"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:layout_below="@id/txt_Dis"
+        android:id="@+id/btn_StartActivity"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible"
+        android:layout_marginTop="70dp"
+        android:text="@string/start"
+        android:textAllCaps="false"
+        android:textColor="@color/WhiteSmoke"/>
+
+
+</RelativeLayout>

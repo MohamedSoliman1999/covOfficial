@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Questions1-->
+    <string name="Q1">ما الأعراض التي تشعر بها؟</string>
+    <string name="A1Q1">سعال</string>
+    <string name="A2Q1">َضيق تنفس</string>
+    <string name="A3Q1">حمى</string>
+    <string name="A4Q1">إلتهاب الحلق</string>
+    <string name="Q2">منذ متي وانت تشعر بهذا؟</string>
+    <string name="A1Q2">اليوم</string>
+    <string name="A2Q2">من 1 الي 7</string>
+    <string name="A3Q2">من 8 الي 14</string>
+    <string name="A4Q2">اكثر من 14</string>
+    <string name="Q3">كم عمرك؟</string>
+    <string name="A1Q3">تحت سن ال 18</string>
+    <string name="A2Q3">من 18 ل 39</string>
+    <string name="A3Q3">من 40 ل 59</string>
+    <string name="A4Q3">اكثر من 60 سنه</string>
+    <string name="Q4">هل انت ذكر ام انثي ؟</string>
+    <string name="A1Q4">ذكر</string>
+    <string name="A2Q4">انثي</string>
+    <string name="Q5">هل لديك أي من هذه الأمراض؟</string>
+    <string name="A1Q5">فشل كلوي مزمن</string>
+    <string name="A2Q5">أمراض الجهاز التنفسي المزمنة</string>
+    <string name="A3Q5">داء السكري</string>
+    <string name="A4Q5">مرض القلب</string>
+    <string name="A5Q5">ضغط مرتفع</string>
+    <string name="A6Q5">ليس لدي</string>
+    <string name="Q6">بقايا و / أو أعراض أخرى؟</string>
+    <string name="A1Q6">نهجان</string>
+    <string name="A2Q6">شعور بالاغماء</string>
+    <string name="A3Q6">ضغط منخفض</string>
+    <string name="A4Q6">لا شيء من هذه الأعراض</string>
+    <string name="A5Q6">شحوب</string>
+    <string name="A6Q6">الفم الأرجواني أو أطراف الأصابع</string>
+    <string name="confirm">تأكيد</string>
+
+    <string name="ttf_location">الموقع</string>
+    <string name="ttf_loc_req">برجاء تفعيل الموقع الخاص بك</string>
+    <string name="ttfBtn_ok">تأكيد</string>
+    <string name="ttfBtn_Cancel">الغاء</string>
+    <string name="ttf_score">نتيجة فحصك: </string>
+    <string name="ttfOk">تاكيد</string>
+    <string name="ttfRetry">حاول مرة اخرى </string>
+    <string name="Retry_Toast">حاول مرة اخرى</string>
+    <string name="YourHealthIsNatural_message">صحتك ف المستوى الطبيعي وبخير</string>
+    <string name="YouNeedToVisitTheHospital_message">انت تحتاج لزيارة المستشفي </string>
+    <string name="YouNeedTocCall105_message">برجاء الاتصال ب 105 لتفقد حالتك والقيام بالاجراءات اللازمة</string>
+    <string name="HomeInsulation_message">برجاء اتباع العزل المنزلى </string>
+
+
+    <!-- BoardScreen-->
+    <string name="Skip_button">تخطى</string>
+    <string name="next_button">التالى </string>
+
+    <!--activity_tips       -->
+    <string name="official_Tips_TV">مهمه</string>
+    <string name="Tips_TV">نصائح</string>
+    <string name="TV_what_should">ما الذي يجب أن تعرفه وتفعله؟</string>
+    <string name="what_corona">ما هي الفيروسات التاجية؟</string>
+    <string name="what_symptom">ما هي الاعراض؟</string>
+    <string name="how_transmited">كيف تنتقل؟</string>
+    <string name="how_prevent">كيف نمنعها؟</string>
+    <string name="when_mask">متى ترتدي قناع؟</string>
+    <string name="is_there_vaci">هل يوجد لقاح أو دواء أو علاج؟</string>
+    <string name="how_diagnose">كيف يتم التشخيص؟</string>
+    <string name="how_survive_in_egypt">كيف تعمل مراقبة الحالة والإخطار في مصر؟</string>
+    <string name="info_travels">معلومات للمسافرين.</string>
+
+    <!--onTipActvityClick -->
+    <string name="corona_description">فيروس كورونا هو مجموعة كبيرة من الفيروسات التي يمكن أن تسبب كل شيء من نزلات البرد إلى أمراض الجهاز التنفسي الأكثر خطورة والتي تعتبر مهمة للصحة العامة ، مثل متلازمة الالتهاب الرئوي الحاد (سارس) ومتلازمة الشرق الأوسط التنفسية (ميرس). إن الفيروس التاجي الجديد الذي تم اكتشافه في ديسمبر 2019 في الصين (SARS-Cov-2) هو العامل المسبب لمرض الفيروس التاجي لعام 2019 (COVID-19).</string>
+    <string name="symptoms_description">يشبه مرض كورونافيروس 2019 (Covid-19)الانفلونزا . عادة ما يكون مرضًا خفيفًا أو معتدلًا ، ولكن يمكن أن تصبح بعض الحالات خطيرة. أكثر الأعراض شيوعًا هي: الحمى والسعال   أو صعوبة التنفس.  قد يعاني بعض المرضى من التعب أو صداع الجسم أو الشعور بالضيق بشكل عام أو احتقان الأنف أو سيلان الأنف أو التهاب الحلق أو ألم في الصدر. عادة ما تكون هذه الأعراض خفيفة وتبدأ تدريجيًا.  بعض الأشخاص مصابون ، ولكن ليس لديهم أعراض أو لديهم أعراض خفيفة وغير محسوسة تقريبًا.  يتعافى معظم الأشخاص (حوالي 80٪) من المرض دون الحاجة إلى علاج خاص. قد يكون لدى حوالي 1 من كل 6 أشخاص مصابين بـ COVID-19 الشدة الشديدة من المرض.  كبار السن الذين يعانون من بعض الحالات المزمنة ، مثل ارتفاع ضغط الدم وأمراض القلب والأوعية الدموية والسكري ، لديهم خطر أكبر للإصابة بالشكل الحاد.</string>
+    <string name="transmited_description">يتم طرده من الأنف والفم عندما يسعل الشخص المصاب أو يعطس أو يتكلم ، حتى عندما يكون لديه أعراض خفيفة أو لا يشعر بالمرض. يمكن ترسيب هذه القطرات على الأشياء أو الأسطح لساعات ، ويمكن للأشخاص الآخرين الحصول على الفيروس عن طريق لمس هذه الأشياء أو الأسطح الملوثة ثم لمس العين أو الأنف أو الفم. يمكن أن يصابوا أيضًا عن طريق التنفس المباشر لقطرات الجهاز التنفسي من شخص مصاب عند السعال أو العطس أو عن طريق الاتصال مثل اللمس أو المصافحة. لذلك من المهم أن تقف بعيدًا أكثر من مترين عن الشخص المريض ، وتغسل يديك بالصابون والماء أو هلام الكحول.</string>
+    <string name="prevent_description">يجب اعتماد تدابير وقائية عامة للتنفس وآداب السلوك ، مثل: \ n - اغسل يديك بانتظام بالصابون والماء ، أو نظفها باستخدام كحول-جل. وبهذه الطريقة يمكن التخلص من الفيروسات التي قد تكون بين يديك. \ n - احتفظ بما لا يقل عن مترين بينك وبين أي شخص يسعل أو يعطس. وبهذه الطريقة يمكن تقليل خطر تنفس قطرات الجهاز التنفسي التي تحتوي على فيروسات ، إذا كان الشخص مريضًا. \ n -تجنب لمس عينيك وأنفك وفمك بيديك دون غسلها. وبهذه الطريقة ، من الممكن منع الأيدي الملوثة من نقل الفيروسات في العين أو الأنف أو الفم ، مما يجعلك مريضًا. \ n - تأكد من أنك أنت والأشخاص المحيطين بك تتدرب على آداب التنفس الجيدة. هذا يعني تغطية فمك وأنفك بساعدك عندما تسعل أو تعطس.  - حافظ على بيئات متقنة جيدًا وتجنب مشاركة الأغراض الشخصية مع أطباق أدوات المائدة أو النظارات أو الزجاجات. هذا يساعد على منع انتشار أمراض الجهاز التنفسي.</string>
+    <string name="mask_description">ارتدِ قناعًا إذا كنت تسعل أو تعطس لتجنب انتشار الفيروسات للآخرين.  بالنسبة للأشخاص الأصحاء ، احارب القناع فقط إذا كنت تعتني بشخص يشتبه في إصابته بعدوى بالفيروسات. الأقنعة فعالة فقط عند استخدامها بالاقتران مع التنظيف المتكرر والصابون والماء أو تطهيره بجل الكحول.</string>
+
+    <string name="egypt_survue_description">يجب تسجيل جميع الحالات من قبل الخدمات الصحية العامة والخاصة في مصر. باستخدام النموذج الإلكتروني ، خلال الـ 24 ساعة الأولى بعد الشك السريري. اعتبارًا من 1 مارس 2020 ، دخلت التعريفات التشغيلية التالية للصحة العامة الوطنية حيز التنفيذ. حالة متوقعة لمرض فيروس كورونا 2019 (COVID-19) الحالة 1: حمى وعلامة أو أعراض تنفسية واحدة على الأقل (سعال ، صعوبة في التنفس ، رفرفة الأجنحة الأنفية ، من بين أمور أخرى). حالة محتملة لمرض كورونافيروس 2019 (COVID-19) اتصال وثيق في المنزل لحالة مختبرية مؤكدة ، والتي تعرض الحمى و / أو أي أعراض تنفسية ، في غضون 14 يومًا بعد آخر اتصال مع المريض. الحالة المؤكدة لمرض كورونافيروس 2013 (COVID-19) معيار المختبر: نتيجة إيجابية في RT-PCR ، بواسطة البروتوكول الخيري. ب) المعايير الإكلينيكية والوبائية: إغلاق المنزل لحالة مؤكدة مختبريًا ، وتقديم و / أو أي أعراض تنفسية ، في غضون 14 يومًا بعد آخر اتصال مع المريض.</string>
+    <string name="vaccine_description">حتى الآن ، لا يوجد لقاح متوفر ضد COVID-19. هناك علاج متاح ، مما يمنع المرض من التدهور ويقلل من الانزعاج. ومع ذلك ، لا يوجد حتى الآن دواء محدد للقضاء على الفيروس التاجي.</string>
+
+    <string name="diagnosis_description">يتم تشخيص الفيروس التاجي عن طريق جمع المواد التنفسية من المرضى المصنفين كحالات مشتبه فيها لـ COVID-19. يتم إرسال العينات إلى مختبرات الصحة العامة المركزية لإجراء اختبارات البيولوجيا الجزيئية للكشف عن الحمض النووي الريبي الفيروسي.</string>
+    <string name="plane_description">تقييم الحاجة الحقيقية للسفر إلى موقع به حالات COVID-19 وتأجيله إن أمكن. إذا كان لا مفر منه ، فتجنب اتباع إرشادات السلطات الصحية المحلية ، وإذا كنت مسافرًا من مكان مصاب بحالات COVID-19 ، فكن على دراية بحالتك الصحية ، خاصةً في أول 14 يومًا بعد العودة. إذا كنت تعاني من أعراض مثل الحمى والسعال وصعوبة التنفس ، فاطلب الرعاية الطبية وأبلغ عن تاريخ سفرك.</string>
+
+    <!-- mainActivity -->
+    <string name="Email_edittext">البريد الالكترونى</string>
+    <string name="enter_code">كلمة المرور</string>
+    <string name="send_vrification_code">الدخول</string>
+    <string name="create_new_account">انشاء حساب جديد </string>
+    <string name="emailAccount_toast">ادخل حسابك  !</string>
+    <string name="passowrd_t_toast">ادخل كلمة المرور !</string>
+    <string name="singin_toast">خطا فى تسجيل الدخول !</string>
+
+
+
+    <!--main2Actvity -->
+
+    <string name="toast_name">ادخل الاسم.</string>
+    <string name="toast_govern">\"ادخل المحافظة \"</string>
+    <string name="toast_area">\"ادخل المنطقةاو المركز \"</string>
+    <string name="toast_adress">\"ادخل العنوان بالكامل  \"</string>
+    <string name="messgae_progressdialog_regester">جار التسجيل...</string>
+    <string name="toast_internet_prob">خطأفى الاتصال بالأنترنت.</string>
+    <string name="name">الاسم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تاكيد كلمة المرور</string>
+    <string name="phone">رقم التليفون</string>
+    <string name="governerate_area">المحافظة/المركز</string>
+    <string name="adress">العنوان بالتفصيل </string>
+    <string name="female">أنثي</string>
+    <string name="male">ذكر</string>
+    <string name="regester">تسجيل</string>
+    <string name="email_toast">ادخل حسابك ! </string>
+    <string name="password_toast">ادخل كلمة المرور</string>
+    <string name="confirmpass_toast">ادخل تاكيد كلمة المرور</string>
+    <string name="phone_toast">ادخل رقم التليفون </string>
+    <string name="tryanoterAcount_toast">برجاء ادخال حساب اخر </string>
+    <string name="confirmpassdoesMpass_Toat">كلمة المرور لا تطابق كلمة التاكيد </string>
+
+
+    <!--MainPageActivity -->
+
+    <string name="diagnosis">تشخيص</string>
+    <string name="services">خدمات</string>
+    <string name="latest_news">اخر الاخبار</string>
+    <string name="prevention_tips">نصائح للوقايه</string>
+    <string name="spread_map">خريطة الانتشار</string>
+
+    <string name="canNotgetloaction_toast">خطأ ف الوصول للموقع !</string>
+    <string name="ttf_location_req_mess">برجاء تفعيل الموقع الخاص بك</string>
+    <string name="ttf_title_Location">الموقع</string>
+    <string name="ttf_ok">تأكيد</string>
+    <string name="ttf_Cancel">الغاء</string>
+
+
+
+    <!--NewsActivity-->
+    <string name="progFunMss_NewsActivity">جارى التحميل!</string>
+    <string name="TTF_newsActivity_posBtn">مشكلة بالانترنت </string>
+    <string name="TTF_newsActivity_message">رجاءا تفقد اتصالك بالانترنت  !!</string>
+    <string name="TTF_newsActivity_posBtnTxt">حاول مرة اخرى</string>
+
+    <!--SliderAdapterActivity-->
+
+    <string name="start">ابدا</string>
+
+
+    <!--MapActvity -->
+
+    <string name="LocPerr_toast">برجاء تفعيل تصريح الموقع</string>
+    <string name="ttfPbtn">مشكلة بالانتر نت !</string>
+    <string name="ttf_message">برجاء تفقد الاتصال ببالانترنت  !!</string>
+    <string name="TTFRetry">برجاء المحاولة مرة اخرى !</string>
+    <string name="loading">...جار التحميل</string>
+    <string name="EnteredDangerArea_notifi">\" انت الان بالقرب من اشخاص مصابين بفيروس كورونا..\"</string>
+    <string name="ExitedDangerArea">\" انت الان خارج دائرة الماصابين .!\"</string>
+    <string name="locationt_oast">رجاء تفعيل تصريح الموقع!</string>
+    <string name="question">برجاء الاجابة علي كل الاسئلة !</string>
+
+</resources>

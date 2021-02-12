@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFF"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                android:outlineSpotShadowColor="@color/colorPrimary"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/appicon_bkg"
+                android:src="@drawable/app_icon"/>
+
+
+            <EditText
+                android:id="@+id/email_login_edittxt"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/edittext_background"
+                android:drawableStart="@drawable/ic_person_24dp"
+                android:drawablePadding="5dp"
+                android:hint="@string/Email_edittext"
+                android:padding="5dp"
+                android:inputType="textEmailAddress"
+                android:singleLine="true"
+                android:textColorHint="#020969"
+                android:textSize="20sp" />
+
+
+
+            <EditText
+                android:id="@+id/password_login_edittxt"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:password="true"
+                android:layout_marginTop="20sp"
+                android:layout_marginRight="10dp"
+                android:inputType="textPassword"
+                android:background="@drawable/edittext_background"
+                android:drawableStart="@drawable/ic_code_24dp"
+                android:drawablePadding="5dp"
+                android:hint="@string/enter_code"
+                android:padding="5dp"
+                android:singleLine="true"
+
+                android:textColorHint="#020969"
+                android:textSize="20sp" />
+
+            <Button
+
+                android:id="@+id/login_btn"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/button_background"
+                android:text="@string/send_vrification_code"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white" />
+
+
+            <Button
+
+                android:id="@+id/createNewAccount_btn"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/button_create_newaccount_bkg"
+                android:text="@string/create_new_account"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/stepup_icon"
+                />
+            <TextView
+                android:id="@+id/stepUp_TxtView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Powerd By "
+                android:layout_marginBottom="20dp"
+                android:textColor="#020969"/>
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+
+
+    </LinearLayout>

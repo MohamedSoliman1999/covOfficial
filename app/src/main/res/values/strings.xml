@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name" translatable="false">AntiCovid</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="title_activity_nera_hospitals_map2" translatable="false">Map</string>
+
+    <!-- Questions1-->
+    <string name="Q1">What symptoms do you feel?</string>
+    <string name="A1Q1">Cough</string>
+    <string name="A2Q1">Difficult Breathing</string>
+    <string name="A3Q1">Fever</string>
+    <string name="A4Q1">Sore throat</string>
+    <string name="Q2">How long have you felt them?</string>
+    <string name="A1Q2">Today</string>
+    <string name="A2Q2">1 to 7</string>
+    <string name="A3Q2">8 to 14</string>
+    <string name="A4Q2">more than 14</string>
+    <string name="Q3">How old are you?</string>
+    <string name="A1Q3">Under 18 year</string>
+    <string name="A2Q3">18 to 39 year</string>
+    <string name="A3Q3">40 to 59</string>
+    <string name="A4Q3">Over 60 year</string>
+    <string name="Q4">What is your gender?</string>
+    <string name="A1Q4">Male</string>
+    <string name="A2Q4">Feminie</string>
+    <string name="Q5">Do you have any of this diseases?</string>
+    <string name="A1Q5">Chronic Kidney Disease</string>
+    <string name="A2Q5">Chronic Respiratory Disease</string>
+    <string name="A3Q5">Diabetes</string>
+    <string name="A4Q5">Heart Disease</string>
+    <string name="A5Q5">High pressure</string>
+    <string name="A6Q5">I dont have</string>
+    <string name="Q6">Other vestige and/or symptoms?</string>
+    <string name="A1Q6">Breathing to fast</string>
+    <string name="A2Q6">Feeling faint</string>
+    <string name="A3Q6">Low pressure</string>
+    <string name="A4Q6">None of these symptoms</string>
+    <string name="A5Q6">Pallor</string>
+    <string name="A6Q6">Purple mouth or fingertips</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="ttf_location">Location</string>
+    <string name="ttf_loc_req">Please open mobile location</string>
+    <string name="ttfBtn_ok">Ok</string>
+    <string name="ttfBtn_Cancel">Cancel</string>
+    <string name="ttf_score">\"your score is: \"</string>
+    <string name="ttfOk">\"Ok \"</string>
+    <string name="ttfRetry">Retry</string>
+    <string name="Retry_Toast">Retry</string>
+    <string name="YourHealthIsNatural_message">Your health is natural</string>
+    <string name="YouNeedToVisitTheHospital_message">You need to visit the hospital</string>
+    <string name="YouNeedTocCall105_message">You need to call 105</string>
+    <string name="HomeInsulation_message">Home insulation</string>
+
+
+    <!-- BoardScreen-->
+    <string name="Skip_button">Skip</string>
+    <string name="next_button">Next</string>
+
+    <!--activity_tips       -->
+    <string name="official_Tips_TV">Official</string>
+    <string name="Tips_TV">Tips</string>
+    <string name="TV_what_should">What should you know and do?.</string>
+    <string name="what_corona">What are Coronavirus?</string>
+    <string name="what_symptom">What are the symptoms?</string>
+    <string name="how_transmited">How is it transmitted?</string>
+    <string name="how_prevent">How to prevent it?</string>
+    <string name="when_mask">When to wear a mask?</string>
+    <string name="is_there_vaci">Is there a vaccine, medication or treatment?</string>
+    <string name="how_diagnose">How is the diagnosis made?</string>
+    <string name="how_survive_in_egypt">How does case surveillance \nand \nnotification work in Egypt?</string>
+    <string name="info_travels">Information for travelers.</string>
+
+    <!--onTipActvityClick -->
+    <string name="corona_description">Coronaviruse are a large family of viruses that can cause everything from common colds to more serious respiratory diseases that are important for public health, such as the Severe Acute Respiratory Syndrome (SARS) and the Middle East Respiratory Syndrome (MERS). The new coronavirus discovered in December 2019 in China (SARS-Cov-2) is the causative agent of 2019 coronavirus disease (COVID-19).</string>
+    <string name="symptoms_description">Coronavirus Disease 2019 (Covid-19) is similar to a \'flu\'. It is usually a mild or moderate disease, but some cases can become serious. The most commpn syptoms are: feve, cough and / or difficulty breathing.\nSome patients may experience tiredness, bodyaches, malaise in general, nasal congestion, runny nose, sore throat or chest pain. These symptoms are usually mild and begin gradually.Some people are infected, but have no symptoms or have mild, almost imperceptible symptoms.Most people (about 80%) recover from the disease without needing special treatment. About 1 in 6 people who fall ill with COVID-19 may have the severe from of the disease.Elderly people with certain chronic conditions, such as high blood pressure, cardiovascular disease and diabetes, have a greater risk of developing the severe form.</string>
+    <string name="transmited_description">Expelled from the nose and mouth when an infected person coughs, sneezes or speeks, even when they have mild symptoms or do not feel sick. These droplets can be deposited on objects or surfaces for hours, and the other people can aquire the virus by touching these contaminated objects or surfaces and then touching the eyes, nose or mouth. They can also become infected by directly breathing respiratory droplets from an infected person when they cough or sneeze or by contact such as touching or shaking hands. So it is important to stand more than 2 meters away from a sick person, and wash your hands with soap and water or alcohol gel.</string>
+    <string name="prevent_description">General respiratory prevention and etiquette measures should be adopted, such as:-Wash your hands regulary with soap and water, or clean them with alcohol-gel. In this way it possible to eliminate virusers that may be in your hands. -Keep at least 2 meters between you and anyone coughing or sneezing. That way it is possible to decrease the risk of breathing respiratory droplets that contain viruses, if the person is sick. -Avoid touching your eyes, nose and mouth with you unwashed hands. This way, it is possible to prevent contaminated hands from transferring viruses th the eyes, nose or mouth, making you sick. -Make sure that you and the people arround you practice good breathing etiquette. This means covering your mouth and nose with your forearm when you cough or sneeze. -Maintain well ventialated environments and avoid sharing personal items, with cutlery plates, glasses or bottles. This helps to prevent the spread of respiratory diseases.</string>
+    <string name="mask_description">Wear a mask if you are coughing or sneezing to avoid spreading viruses to others.For healthy people, war a mask only if you are caring for a person suspected of having a voronavirus infection.Masks are effective only when used in combination with frequent and clearing with soap and water or sanitized with alcohol-gel.</string>
+    <string name="egypt_survue_description">All cases must be registered by public and private health services in Egypt. using the electronic form, within the first 24 hours after clinical suspicion. As of March 1, 2020, the followoin operational definitions for national public health came into effect. SUSPECTED CASE OF CORONAVIRUSE DISEASE 2019 (COVID-19) SITUATION 1: Fever and at least one repiratory sign or symptom(cough,difficulty breathing, flapping of the nasal wings, among others). PROBABLE CASE OF CORONAVIRUS DISEASE 2019 (COVID-19) Close home contact of a confirmed laboratory case, which presents fever AND / OR any respiratory symptoms, within 14 days after the last contact with the patient. CONFIRMED CASE OF CORONAVIRUS DISEASE 2013 (COVID-19) LABORATORY CRITERION: Positive result in RT-PCR, by the charite protocol. B) CLINICAL-EPIDEMIOLOGICAL CRITERION: Close home conact of laboratory confirmed case, presenting AND / OR any respiratory symptoms, within 14 days after the last contact with patient.</string>
+    <string name="vaccine_description">To date, there is no vaccine available against COVID-19.There is treatment available, which prevents the disease from worsening and reduces discomfort. However, there is still no specific medication to eliminate the coronavirus.</string>
+    <string name="diagnosis_description">The diagnosis of coronavirus is made by collecting respiratory materials from patients classified as suspected cases of COVID-19. The samples are sent to the Central Public Health Laboratories of the states to perform molecular biology exams to detect viral RNA.</string>
+    <string name="plane_description">Assess the real need for travel to a location with COVID-19 cases and postpone if possible. If it is unavoidable, prevent the follow the guidelines of the local health authorities.If you are traveling back from a place with cases of COVID-19, be aware of your health condition, especially in the first 14 days after returning. If you experience symptoms such as fever, cough and difficulty breathing, seek medical care and report your travel history.</string>
+
+    <!--mainActvity -->
+    <string name="Email_edittext">Email</string>
+    <string name="enter_code">Password</string>
+    <string name="send_vrification_code">Login</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="emailAccount_toast">Enter your Account !</string>
+    <string name="passowrd_t_toast">Enter you Password !</string>
+    <string name="singin_toast">sign in error !</string>
+
+
+    <!--main2Actvity -->
+
+    <string name="email_toast">Enter you Email</string>
+    <string name="password_toast">Enter your Password</string>
+    <string name="confirmpass_toast">confirm your password</string>
+    <string name="phone_toast">Enter your phone number !</string>
+    <string name="tryanoterAcount_toast">Try Another Account !</string>
+    <string name="confirmpassdoesMpass_Toat">ConfirmPassword Does not Match PassWord!</string>
+
+    <string name="toast_name">Enter your name .</string>
+    <string name="toast_govern">Enter Governorate</string>
+    <string name="toast_area">Enter the region or center</string>
+    <string name="toast_adress">Enter the full address</string>
+    <string name="messgae_progressdialog_regester">Resgesteration In Progress..</string>
+    <string name="toast_internet_prob">Internet Connection Problem !</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">phone</string>
+    <string name="governerate_area">Governerate/Area</string>
+    <string name="adress">Adress</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="regester">Regester</string>
+
+
+    <!--MainPageActivity -->
+    <string name="diagnosis">Diagnosis</string>
+    <string name="services">Services</string>
+    <string name="latest_news">latest news</string>
+    <string name="prevention_tips">Prevention tips</string>
+    <string name="spread_map">Spread map</string>
+
+    <string name="canNotgetloaction_toast">Can not Get Your Location</string>
+    <string name="ttf_location_req_mess">Please open mobile location</string>
+    <string name="ttf_title_Location">Location</string>
+    <string name="ttf_ok">Ok</string>
+    <string name="ttf_Cancel">Cancel</string>
+
+
+    <!--NewsActivity-->
+    <string name="progFunMss_NewsActivity">loading</string>
+    <string name="TTF_newsActivity_posBtn">Internet Problem</string>
+    <string name="TTF_newsActivity_message">Please Check your internet Connection !!</string>
+    <string name="TTF_newsActivity_posBtnTxt">Retry</string>
+
+    <!--sliderAdapter-->
+
+    <string name="start">Start</string>
+
+    <!--MapActvity -->
+
+    <string name="LocPerr_toast">You Must Enable Permission</string>
+    <string name="ttfPbtn">Internet Problem</string>
+    <string name="ttf_message">Please Check your internet Connection !!</string>
+    <string name="TTFRetry">Retry</string>
+    <string name="loading">loading</string>
+    <string name="EnteredDangerArea_notifi">\" Entered Danger Area\"</string>
+    <string name="ExitedDangerArea">\" Exited Danger Area\"</string>
+    <string name="locationt_oast">pelease open your Location !</string>
+    <string name="question">please answer all question !</string>
+
+</resources>
